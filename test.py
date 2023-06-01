@@ -44,10 +44,8 @@ Hx7UPVlTK8dyvk1Z+Yw0nrfNClI=
 -----END OPENSSH PRIVATE KEY-----
 
 
-# Tuya access key and secret key
 ACCESS_ID = "sdfdsfdfsfsdfhcn"
 ACCESS_KEY = "0sdfsdfsdfsfsdfsfewf7207aa82"
-# Aws access key and secret key
 AWS_ACCESS_KEY_ID="AKASDSDKSDDKJ54LMFSL"
 AWS_SECRET_ACCESS_KEY="zcsdfdsnfkfshfdsjksdsdsdbjdnqm54lD5mTLf"
 
